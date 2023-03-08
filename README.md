@@ -20,30 +20,30 @@ In this part, we will use the Experience-Salary Data Set.
 1. Using the sklearn API, train the model using the linear regression algorithm.
 2. Predict the data from a test data set.
 3. Visualize the result of the regression in the form of a graph.
-4. Evaluate the model using these three methods:
+4. Evaluate the model using these three methods:<br>
 Mean Squared Error (MSE)<br>
 Root Mean Squared Error (RMSE)<br>
-Mean Absolute Error (MAE)
+Mean Absolute Error (MAE)<br>
 Interpret the evaluation results.
 
 ## Part 3 "Multiple Regression: Insurance Case":
 In this part, we will use the Insurance Data Set.
 
-Using the sklearn API, train the model using the linear regression algorithm.
-Predict the data from a test data set.
-Visualize the result of the regression in the form of a graph.
-Evaluate the model using these three methods:
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-Mean Absolute Error (MAE)
+1. Using the sklearn API, train the model using the linear regression algorithm.
+2. Predict the data from a test data set.
+3. Visualize the result of the regression in the form of a graph.
+4. Evaluate the model using these three methods:<br>
+Mean Squared Error (MSE)<br>
+Root Mean Squared Error (RMSE)<br>
+Mean Absolute Error (MAE)<br>
 Interpret the evaluation results.
 
 ## Part 4 "Multiple Polynomial Regression: China GDP Case":
-Using the sklearn API, train the model using the linear regression algorithm and then the polynomial linear regression.
-Predict the data from a test data set for both models.
-Visualize the result of the regression in the form of a graph for both models.
-Evaluate the two models using these three methods:
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-Mean Absolute Error (MAE)
+1. Using the sklearn API, train the model using the linear regression algorithm and then the polynomial linear regression.
+2. Predict the data from a test data set.
+3. Visualize the result of the regression in the form of a graph.
+4. Evaluate the model using these three methods:<br>
+Mean Squared Error (MSE)<br>
+Root Mean Squared Error (RMSE)<br>
+Mean Absolute Error (MAE)<br>
 Interpret the evaluation results.
