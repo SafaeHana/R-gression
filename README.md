@@ -21,8 +21,8 @@ In this part, we will use the Experience-Salary Data Set.
 2. Predict the data from a test data set.
 3. Visualize the result of the regression in the form of a graph.
 4. Evaluate the model using these three methods:
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
+Mean Squared Error (MSE)<br>
+Root Mean Squared Error (RMSE)<br>
 Mean Absolute Error (MAE)
 Interpret the evaluation results.
 
