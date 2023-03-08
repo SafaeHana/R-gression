@@ -12,15 +12,15 @@ China GDP: https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/Cog
 ## Part 1 (Data Visualization):
 1. Using Pandas, explore the data from the two Data Sets.
 2. Display the statistical summary of the two Data Sets with an interpretation of the obtained results.
-3.Display the scatter plot of the first data set "Experience/Salary" using Matplotlib and Pandas.
-4.Display the scatter plots of the second data set according to the "Features" properties using Matplotlib and Pandas "scatter_matrix".
+3. Display the scatter plot of the first data set "Experience/Salary" using Matplotlib and Pandas.
+4  Display the scatter plots of the second data set according to the "Features" properties using Matplotlib and Pandas "scatter_matrix".
 ## Part 2 "Simple Regression: Experience-Salary Case":
 In this part, we will use the Experience-Salary Data Set.
 
-1.Using the sklearn API, train the model using the linear regression algorithm.
-2.Predict the data from a test data set.
-3.Visualize the result of the regression in the form of a graph.
-4.Evaluate the model using these three methods:
+1. Using the sklearn API, train the model using the linear regression algorithm.
+2. Predict the data from a test data set.
+3. Visualize the result of the regression in the form of a graph.
+4. Evaluate the model using these three methods:
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 Mean Absolute Error (MAE)
